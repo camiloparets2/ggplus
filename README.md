@@ -6,7 +6,7 @@
 
 ## Installation
 # install.packages("devtools")
-devtools::install_github("your_username/ggplus")
+devtools::install_github("camiloparets2/ggplus")
 
 #The package includes several S3 and S4 classes and methods for more advanced customization and functionality:
 
