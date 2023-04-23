@@ -1,11 +1,12 @@
-# ggplus
 Package: ggplus
-Title: Enhance ggplot2 visualizations
+Type: Package
+Title: Simplified ggplot2 Functions
 Version: 0.1.0
-Authors@R: 
-  person("Camilo Parets Dominguez", email = "parets@usf.edu", role = c("aut", "cre"))
-Description: The ggplus package simplifies ggplot2 and adds new geom functions to enhance data visualization. Some of the key features include easier customization of plot aesthetics, simplified geoms for common visualizations, and support for animated visualizations.
-Depends:
-  R (>= 3.2.0)
+Author: Camilo Parets Dominguez
+Maintainer: Camilo <parets@usf.edu>
+Description: A collection of simplified functions for creating common ggplot2 plots.
 License: GPL-3
+Encoding: UTF-8
 LazyData: true
+Imports:
+  ggplot2
